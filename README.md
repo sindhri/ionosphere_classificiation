@@ -1,7 +1,7 @@
 # Ionosphere classification
 
-Use radar returns (34 attributes) to classify whether it is an electron (g) or not (b).
-Credit: Deep Learning with Python by Jason Brownlee
+Use radar returns (34 attributes) to classify whether it is an electron (g) or not (b).  
+Credit: Deep Learning with Python by Jason Brownlee  
 Data source: UCI Machine learning repository
 https://archive.ics.uci.edu/ml/datasets/Ionosphere
 
