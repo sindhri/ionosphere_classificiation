@@ -6,6 +6,8 @@ Data source: UCI Machine learning repository
 https://archive.ics.uci.edu/ml/datasets/Ionosphere
 
 Dataset has 351 rows, and 34 attributes/features
+Basic MLP of two layers
+
 ## 1. Using the default: not specify learning rate decay and momentum
 Accuracy 98.28%
 
